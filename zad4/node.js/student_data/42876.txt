@@ -1,0 +1,6 @@
+Numer albumu: 42876
+Imię: Kamil
+Nazwisko: Banasiewicz-Banaszewski
+Płeć: male
+Wiek: 21
+Kierunek: informatyka
